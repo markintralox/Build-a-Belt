@@ -3,7 +3,7 @@
 Single-file browser prototype for a 6-row conveyor belt assembly challenge. Built in partnership with Intralox for training and product education.
 
 The main artifact is:
-- Belt_v3-6.html (v3.6 with v22 visual enhancements)
+- Belt_v3-7.html
 
 ## Purpose
 
